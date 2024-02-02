@@ -1,1 +1,1 @@
-# Classificator
+# 3DSlicerClassificator
